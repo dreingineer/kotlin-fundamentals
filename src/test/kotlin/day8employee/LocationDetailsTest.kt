@@ -1,0 +1,3 @@
+package day8employee
+
+internal class LocationDetailsTest
